@@ -1,0 +1,117 @@
+@media only screen and (min-width:1000px) and (max-width:1200px) {
+.call-top { width: 39%; left: 56%;}
+#cssmenu > ul li a { padding: 18px 5px;}
+#cssmenu { font-size: 15px;}
+.links-map h1 { font: bold 12px Arial,Helvetica,sans-serif;}
+.bn-btm-left { margin: -16px 0px 0px;}
+.bn-bt-right { width: 38%;}
+.testimonial { width: 47.7%;}
+.wlcm-tex p { font: 13px Arial,Helvetica,sans-serif;}
+.footer-box h3 { font: bold 15px Arial,Helvetica,sans-serif;}
+.footer-box { width: 20.8%;}
+}
+@media only screen and (max-width:999px){
+.call-top { width: 39%; left: 56%;}
+#cssmenu > ul li a { padding: 18px 5px;}
+#cssmenu { font-size: 15px;}
+.links-map h1 { font: bold 12px Arial,Helvetica,sans-serif;}
+.bn-btm-left { margin: -16px 0px 0px;}
+.bn-bt-right { width: 38%;}
+.testimonial { width: 47.7%;}
+.wlcm-tex p { font: 13px Arial,Helvetica,sans-serif;}
+.footer-box h3 { font: bold 15px Arial,Helvetica,sans-serif;}
+.footer-box { width: 20.8%;}
+.logo { width: 16%; margin: 18px 0px 0px 30px;}
+.logo img { width: 100%;}
+}
+@media only screen and (max-width:850px){
+.call-top { width: 46%; left: 48%;}
+#cssmenu { font-size: 14px; font-weight: 100;}
+.logo {margin: 21px 0px 0px 30px;}
+.bn-lft-2 { width: 45%;}
+.bn-btm-left { margin: 16px 0px 0px;}
+.f-right { width: 30%;}
+.f-left { width: 54%;}
+.box-left-2 h3 {width: 85%; font: bold 17px "Raleway-Light";}
+ul.tabs li a { padding: 10px 20px 10px 44px;}
+ul.tabs li.active a {padding: 20px 15px 20px 67px;}
+ul.tabs li a { padding: 10px 13px 10px 42px;}
+}
+
+@media only screen and (max-width:799px){
+#cssmenu { font-size: 17px;}	
+#cssmenu > ul li a { padding: 18px 4px;}
+.call-top { width: 60%; left: 33%;}
+.map img{ width:100%;}
+.map {margin: 30px 0px 0px;}
+.wlcm-tex {width: 100%;border-bottom: 1px solid #CCC;border-right: none;}
+.testimonial {width: 100%;border-left: medium none;border-top: 1px solid rgb(255, 255, 255);}
+.wlcm-tex p {  margin: 10px 0px 11px 0px;}
+.footer-box h3 { font: bold 13px Arial,Helvetica,sans-serif;}
+.f-left { width: 58%;}
+#cssmenu > ul { background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.88); z-index: 9;position: relative;}
+#cssmenu > ul li#responsive-tab a:hover{ background:none;}
+nav { width: 35%; margin: 30px 30px 0px 0px;}
+#cssmenu > ul li a { padding: 15px 15px; border-bottom: 1px dotted #ccc;}
+#cssmenu > ul li a.active, #cssmenu > ul li a:hover { border-bottom: 1px dotted #00AEEF;}
+.logo { width: 20%;}
+}
+
+
+@media only screen and (max-width:640px){
+#cssmenu > ul { background: none repeat scroll 0% 0% rgba(255, 255, 255, 0.88); z-index: 9;position: relative;}
+.logo { width: 26%;}
+#cssmenu > ul li a { padding: 15px 15px; border-bottom: 1px dotted #ccc;}
+#cssmenu > ul li a.active, #cssmenu > ul li a:hover { border-bottom: 1px dotted #00AEEF;}
+#cssmenu { font-size: 14px; color: #000; font-weight: bold;}
+nav { width: 35%; margin: 36px 30px 0px 0px;}
+.bn-lft-2 { width: 44%;}
+.links-map h1 { font: bold 14px Arial,Helvetica,sans-serif;}
+.main-contan h2 { font: bold 24px "Raleway-Light";}
+.main-contan { width: 63%;}
+.sidebar { width: 35%;}
+.bln-bg a {font: 21px "Raleway-Light"; margin: 10px 0px 10px 10px;}
+.brws-bg a { font: bold 16px "Raleway-Light"; margin: 13px 10px 13px 0px;}
+ul.tabs li a { padding: 10px 5px 10px 42px; font: 13px "Open Sans",sans-serif;}
+.con-bg-fld { width: 46%;  margin: 2%;}
+.con-bg-fld2 { margin: 7px 0px 0px 6px;}
+}
+
+@media only screen and (max-width:568px){ 
+.call-top { width: 68%; left: 25%;}
+.bn-btm-left figure { width: 50%;}
+.footer-box { width: 45.8%;height: 460px;}
+.f-right { font: 13px arial;}
+.box-left-2 h3 { width: 84%; font: bold 16px "Raleway-Light";}
+}
+@media only screen and (max-width:479px){
+.call-top { width: 81%; left: 12%;}
+.map { display: none;}
+.bn-btm-left { margin: 16px 0px 0px; width: 100%;}
+.bn-bt-right { width: 96%; margin: 187px 0px 0px 0px;}
+.footer-box { width: 45.7%;}
+.f-right { width: 36%;}
+.no-bg { width: 37%; font: bold 16px arial; margin: 15px 0px 0px 20px;}
+.blue-call {width: 47%; font: bold 12px arial;}
+.logo {  width: 38%;}
+.sidebar { display: none;}
+.main-contan { width: 100%;}
+}
+
+
+@media only screen and (max-width:400px){
+.logo {  width: 44%;}
+.call-top { width: 95%; left: 2%;}
+}
+
+@media only screen and (max-width:320px){
+.no-bg { width: 37%; font: bold 14px arial; margin: 19px 0px 0px 20px;}
+.bn-btm-left { margin: 16px 0px 0px; width: 100%; height: 115px;}
+.bn-bt-right {margin: 135px 0px 0px;}
+.footer-box { width: 97%; height:auto;}
+.logo { width: 34%; margin: 30px 0px 0px 30px;}
+nav { width: 44%;}
+.con-bg h3 { font: bold 17px "Raleway-Light";}
+}
+
+
